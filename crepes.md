@@ -15,3 +15,6 @@
 - add butter
 - add batter nad cook the crepe until cooked
 - eat
+
+## Credits
+my mom
