@@ -1,2 +1,2 @@
 # cookbook
-Just recipes I wanna keep track of
+Just recipes I've tried I wanna keep track of
