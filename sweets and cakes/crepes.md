@@ -13,7 +13,7 @@
 - let sit in the fridge for 30 min
 - heat up pan
 - add butter
-- add batter nad cook the crepe until cooked
+- add batter and cook the crepe until cooked
 - eat
 
 ## Credits
